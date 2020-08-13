@@ -1,6 +1,6 @@
 <img src="https://github.com/Carrilhos/Tela-de-login/blob/master/login.png"/>
 <br> <br>
-<h1> Tela de login </h1>
+<center><h1> Tela de login </h1></center>
 
 Essa tela de login é um projeto simples feito apenas com html e css, como forma de tentar desenvolver algo visualmente agradavél usando recursos simples.
 <br>
